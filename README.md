@@ -66,7 +66,7 @@ dfced79b05426d74fc9ecef23ae62f9a9ee2541161796c2caa00a07bd16b21e4
 [View on Stellar Explorer](https://stellar.expert/explorer/testnet/tx/dfced79b05426d74fc9ecef23ae62f9a9ee2541161796c2caa00a07bd16b21e4)
 
 ## Live Demo
-https://stellar-live-poll.vercel.app
+https://stellar-live-poll-phi.vercel.app
 
 ## Level 2 Requirements
 | Requirement | Status |
